@@ -1,6 +1,6 @@
 {
   "name": "marked-pandoc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "GB <gbourel@gmail.com>",
   "description": "A [marked](https://github.com/markedjs/marked) extension to use pandoc flavored markdown.",
   "license": "MIT",

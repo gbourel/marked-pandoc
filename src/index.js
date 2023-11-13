@@ -87,7 +87,6 @@ export const pandoc = {
           elt = `${elt} ${token.attrs.join(' ')}`;
         }
         if (token.classes && token.classes.length > 0) {
-          console.info('classes', token.classes);
           elt = `${elt} class="${token.classes.join(' ')}"`;
         }
         return `${elt}/>`;
